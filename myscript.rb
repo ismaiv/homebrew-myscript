@@ -3,7 +3,7 @@ class Myscript < Formula
   homepage ""
   url "https://github.com/ismaiv/myscript/archive/v1.0.0.tar.gz"
   version "1.0.0"
-  sha256 "9f2ba2a754167978b9b78c235ecd74904d0ee4c51771975495d614c1a643b486"
+  sha256 "c90be871ee28e68efc302eb025471d2b8ba3f38c5114508471a8643f1f47dc10"
 
   def install
       bin.install "myscript.rb"

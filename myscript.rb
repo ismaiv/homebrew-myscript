@@ -7,8 +7,6 @@ class Myscript < Formula
 
   def install
     bin.install "myscript.rb"
-    system "./configure", "--prefix=#{prefix}"
-    system "make", "install"
   end
 
 end

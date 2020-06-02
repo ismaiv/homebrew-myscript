@@ -6,7 +6,7 @@ class Myscript < Formula
   sha256 "c90be871ee28e68efc302eb025471d2b8ba3f38c5114508471a8643f1f47dc10"
 
   def install
-    bin.install "myscript.rb"
+    bin.install "myscript"
   end
 
 end
